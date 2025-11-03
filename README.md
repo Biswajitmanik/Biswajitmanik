@@ -3,8 +3,13 @@
 Email Me 👉 ✉️ **biswajitmanik163@gmail.com**
 
 
+⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/biswajit-manik-a9b15a327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswajitmanik163@gmail.com) 
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+
 
 <!-- Snake Game Repo View -->
 
@@ -31,4 +36,8 @@ Email Me 👉 ✉️ **biswajitmanik163@gmail.com**
 ---
 [![](https://visitcount.itsvg.in/api?id=Biswajitmanik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+📫Connect with me:
+
+[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](www.linkedin.com/in/biswajit-manik-a9b15a327) 
+[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:biswajitmanik163@gmail.com)
